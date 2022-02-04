@@ -1,0 +1,14 @@
+{
+    "UserModule": true,
+    "AdminModule": true,
+    "BlogModule": true,
+    "CommonModule": true,
+    "ConfigModule": true,
+    "PhotoAlbumModule": true,
+    "ServiceModule": true,
+    "WidgetsModule": true,
+    "AreaModule": true,
+    "SiteModule": true,
+    "NewsModule": true,
+    "Contacts": true
+}
